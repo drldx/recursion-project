@@ -30,4 +30,4 @@ function mergeSort(arr) {
   }
 }
 
-console.log(mergeSort([1, 5, 9, 7, 4, 2, 6, 3, 8, 0]));
+module.exports = mergeSort;

@@ -1,0 +1,23 @@
+{
+  "name": "recursion-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibs.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drldx/recursion-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drldx/recursion-project/issues"
+  },
+  "homepage": "https://github.com/drldx/recursion-project#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
